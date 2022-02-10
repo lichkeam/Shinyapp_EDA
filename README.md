@@ -1,2 +1,2 @@
-# Shinyapp_EDA
-This is a shiny app applied for categorical EDA.
+# shiny_dev
+Analysis template

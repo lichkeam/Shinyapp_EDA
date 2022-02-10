@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
+
+.well {
+     
+     background-image: linear-gradient(to top, #fff1eb 0%, #e6f5fa 100%);
+}
+
+.btn-default {
+       color: #ffffff;
+       background-color: #31459e;
+     }
+
+.irs--shiny .irs-from, .irs--shiny .irs-to, .irs--shiny .irs-single {
+    color: #fff;
+    text-shadow: none;
+    padding: 1px 3px;
+    background-color: #d60000;
+    border-radius: 3px;
+    font-size: 11px;
+    line-height: 1.333;
+}
+
+.irs--shiny .irs-bar {
+    top: 25px;
+    height: 8px;
+    background: linear-gradient(to bottom, #dedede -50%, #fff 150%);
+    background-color: #ededed;
+    border: 1px solid #cccccc;
+    border-radius: 8px;
+}
+
+.irs--shiny .irs-handle {
+    top: 17px;
+    width: 22px;
+    height: 22px;
+    background-color: #000000;
+    box-shadow: rgba(255, 255, 255, 0.3) 1px 1px 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(171, 171, 171);
+    border-image: initial;
+    border-radius: 22px;
+}
+
+.irs--shiny .irs-grid-pol.small {
+    background-color: #ffffff;
+}
+
+.alert {
+  color:red;
+  
+}
